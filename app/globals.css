@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.Nav nav {
+    width: 100%;
+    background: #DDD;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: #000;
+}
+.Footer p {
+    margin: 0;
+    color: #DDD;
+}
