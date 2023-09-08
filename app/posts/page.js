@@ -2,7 +2,7 @@ import Todo from '../components/Todo';
 import styles from './page.module.css'
 
 export const metadata = {
-  title: 'Harm',
+  title: 'Glitch',
   description: 'New Next Project'
 }
 
