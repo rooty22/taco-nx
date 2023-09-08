@@ -1,11 +1,6 @@
 import Link from 'next/link';
 import styles from './page.module.css'
 
-export const metadata = {
-  title: 'Git Users API',
-  description: 'New Next Project'
-}
-
 export default async function Home() {
   const response = await fetch("https://jsonplaceholder.typicode.com/users", {
 		next: {
